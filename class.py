@@ -2,7 +2,7 @@ import datetime
 
 class Person:
     # Class Attribuate
-    schoolName = "Test School"
+    schoolName = "Test School !"
     
     # init method or constructor 
     def __init__(self, name, age, gender):
